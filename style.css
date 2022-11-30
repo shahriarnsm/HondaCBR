@@ -1,0 +1,32 @@
+.btn-clr
+{
+    background: #E76F51;
+
+}
+.bg-cstm
+{
+    background: #264653;
+}
+.clr
+{
+    color: #E76F51;
+}
+.space
+{
+    text-align: center;
+}
+.text-clr
+{
+    color: white;
+}
+
+.star-clr
+{
+    color: #E77C40;
+}
+
+.feature-img img
+{
+    width: 288px;
+    height: 243px;
+}
